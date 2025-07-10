@@ -1,0 +1,46 @@
+### 💡 **Projeto: Portfólio Pessoal Estático**
+
+Um site de portfólio pessoal é simples, útil e escalável conforme você aprende mais. A ideia é montar uma **página estática bonita e funcional** com as seguintes seções:
+
+#### Estrutura Sugerida:
+
+1. **Cabeçalho (Header)**
+
+   * Com seu nome, uma frase de destaque ou profissão ("Estudante de Desenvolvimento", por exemplo).
+   * Uma navbar com links âncora para as seções da página (`#sobre`, `#projetos`, etc.).
+
+2. **Sobre mim (Seção)**
+
+   * Uma breve descrição sua.
+   * Uma imagem sua ou um avatar fictício.
+
+3. **Projetos (Seção)**
+
+   * Cards com título, descrição e talvez uma imagem fictícia dos projetos (mesmo que sejam projetos futuros).
+   * Pode usar `display: flex` ou `grid` aqui.
+
+4. **Contato (Seção)**
+
+   * Um formulário estático com campos como nome, email, e mensagem (sem funcionar ainda).
+
+5. **Rodapé (Footer)**
+
+   * Links para redes sociais (ícones com `font-awesome` ou emojis mesmo).
+   * Direitos autorais fictícios.
+
+---
+
+### 🧩 O que você vai praticar:
+
+* Estruturação semântica com `header`, `main`, `section`, `footer` etc.
+* Responsividade básica com media queries (opcional).
+* Flexbox e/ou Grid.
+* Estilização com cores, fontes (Google Fonts), espaçamentos, bordas, etc.
+* Animações simples com `transition` ou `hover`.
+
+---
+
+### 🚀 Desafio extra (só com CSS):
+
+* Faça um menu "hambúrguer" que aparece em mobile (não precisa funcionar com clique ainda, só visual).
+* Crie uma "animação de digitação" usando `@keyframes` para o seu nome ou profissão.
